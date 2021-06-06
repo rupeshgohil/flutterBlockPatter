@@ -7,7 +7,7 @@ void main() {
 }
 
 class MyApp extends StatelessWidget {
-  // This widget is the root of your application.
+  // This widget is the root of your application.dfsdfsdfdsfsdfdsfds
   @override
   Widget build(BuildContext context) {
     SystemChrome.setPreferredOrientations([
@@ -23,5 +23,3 @@ class MyApp extends StatelessWidget {
     );
   }
 }
-
-
